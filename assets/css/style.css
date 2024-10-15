@@ -1,0 +1,40 @@
+li{
+    display: inline
+
+}
+.navbar{
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(127, 58, 58, 0.929);
+
+}
+h1{
+    padding: 3%;
+    border-radius:3% ;
+
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: beige;   
+}
+main{
+    color: rgb(48, 55, 55);
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(14, 73, 54);
+    margin: 3%;
+    
+}
+.last{
+    
+} 
